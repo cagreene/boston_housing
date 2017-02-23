@@ -1,3 +1,3 @@
-# boston_housing
+# Boston Real Estate Pricing Prediction
 
-This is the Boston housing project files for submition
+
